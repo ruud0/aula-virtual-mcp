@@ -2,6 +2,13 @@
 
 An MCP (Model Context Protocol) server that connects Claude to Blackboard Learn (Aula Virtual). Browse courses, check grades, read announcements, and download files — all through natural conversation.
 
+## Demo
+
+![demo](docs/demo.gif)
+
+<!-- Record a short screen capture of a real session and save it to
+     docs/demo.gif. Until then this image renders as broken. -->
+
 ## What it does
 
 - **Authenticate** via browser-based SSO (Playwright opens a login window, saves cookies)
