@@ -1,6 +1,6 @@
 # Aula Virtual MCP Server
 
-An MCP (Model Context Protocol) server that connects Claude to Blackboard Learn (Aula Virtual). Browse courses, check grades, read announcements, and download files, all through natural conversation.
+An MCP (Model Context Protocol) server that connects Claude to Blackboard Learn (Aula Virtual). I frequently utilized this tool throughout my semester abroad at TECNUN Universidad de Navarra in San Sebastián, Spain. Browse courses, check grades, read announcements, and download files, all through natural conversation.
 
 ## Demo
 
